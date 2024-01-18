@@ -111,7 +111,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #67B983;
+    background: #92C7CF;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
@@ -163,7 +163,7 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #67B983;
+    background: #92C7CF;
     color: #fff; }
   .btn--theme-inv {
     color: #0062b9;
@@ -193,7 +193,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background:   #67B983;
+  background:   #92C7CF;
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -331,7 +331,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: #67B983;
+  background: #92C7CF;
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -412,7 +412,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background: #67B983;
+  background: #92C7CF;
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -523,7 +523,7 @@ textarea {
     color: #333;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #67B983;
+      color: #92C7CF;
      }
   .header__logo-img-cont {
     width: 5rem;
@@ -531,7 +531,7 @@ textarea {
     border-radius: 50px;
     overflow: hidden;
     margin-right: 1.5rem;
-    background: #67B983; }
+    background: #92C7CF; }
     @media only screen and (max-width: 56.25em) {
       .header__logo-img-cont {
         width: 4.5rem;
@@ -563,7 +563,7 @@ textarea {
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #67B983; }
+      color: #92C7CF; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
